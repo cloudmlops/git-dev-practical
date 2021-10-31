@@ -5,7 +5,7 @@ Description:
 
 Parameters:
   EnvironmentName:
-    Description: An environment name
+    Description: An environment name for sdlc env
     Type: String
 
   VpcCIDR:
